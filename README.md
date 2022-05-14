@@ -1,6 +1,6 @@
 <WHATDIDYOUJUSTDO?>
 
-WDYJD is an open-source C# ransomware project exposing zero-days in W10 as I find them. This source code is readily available to be modified.
+WDYJD is an open-source C# ransomware project exposing exploits in W10 as I find them. This source code is readily available to be modified.
 
 Most of this WILL NOT WORK ON W11.
 
