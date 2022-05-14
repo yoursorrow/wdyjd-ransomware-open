@@ -27,7 +27,7 @@ Obfuscation will be merged in the future, don't really wanna leak my C# obfuscat
 - Keyboard Lock
 - Mouse Lock
 - VM Detection
-#and many more to come.
+and many more to come.
 
 
   
