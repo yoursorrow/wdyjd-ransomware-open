@@ -33,11 +33,11 @@ and many more to come.
   
   
 #coding style
-  everything is neat, and in its own function which keeps the _Load to a minimum
-  adding functions is easy, and reading the hooks and callbacks is easy.
+  -everything is neat, and in its own function which keeps the _Load to a minimum
+  -adding functions is easy, and reading the hooks and callbacks is easy.
   
-  please commit and fork to your heart's content.
+  -please commit and fork to your heart's content.
   
 
-sincerely,
-yoursorrow
+-sincerely,
+-yoursorrow
