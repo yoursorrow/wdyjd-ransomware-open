@@ -1,6 +1,6 @@
 <WHATDIDYOUJUSTDO?>
 
-WDYJD is an open-source ransomware project exposing zero-days in W10 as I find them. This source code is readily available to be modified.
+WDYJD is an open-source C# ransomware project exposing zero-days in W10 as I find them. This source code is readily available to be modified.
 
 Most of this WILL NOT WORK ON W11.
 
@@ -10,12 +10,16 @@ I will be publishing the code that sends files to a server sometime in the near 
 
 You will setup a VPS that hosts files transferred by the malware instantly.
 
+# Obfuscation?
+
+Obfuscation will be merged in the future, don't really wanna leak my C# obfuscation methods just yet until I improve it.
+
 # Features
 
 - Sandbox self-escape (Tested on Avast!)
 - Auto-rehash
 - Auto-rename
-- USB Payloading (soon to be committed into this project)
+- USB Payloading (soon to be merged into this project)
 - VPN detecting
 - Self destruct
 - Startup lock
