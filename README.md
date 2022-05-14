@@ -36,7 +36,7 @@ if(used.forMalicious)
     developer.notResponsible(becauseISaidSo);
   }
   
-<CODE STYLE>
+#coding style
   i have a very "unique" code style as you can see above
   everything is neat, and in its own function which keeps the _Load to a minimum
   adding functions is easy, and reading the hooks and callbacks is easy.
