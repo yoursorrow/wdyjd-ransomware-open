@@ -40,4 +40,4 @@ and many more to come.
   
 
 sincerely,
-<<YOURSORROW>>
+yoursorrow
