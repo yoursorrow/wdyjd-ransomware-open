@@ -348,7 +348,7 @@
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(359, 16);
             this.label14.TabIndex = 19;
-            this.label14.Text = "0x105B8ab1e05cC029414246A84A9d364bA3A76c51";
+            this.label14.Text = "ETH ADDRESS";
             this.label14.Click += new System.EventHandler(this.label14_Click);
             // 
             // label15
