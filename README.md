@@ -39,5 +39,5 @@ and many more to come.
   -please commit and fork to your heart's content.
   
 
--sincerely,
+-sincerely
 -yoursorrow
